@@ -1,0 +1,1 @@
+curl --location https://pokeapi.co/api/v2/pokemon/squirtle > squirtle.json
